@@ -18,7 +18,7 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+## Sobre mim
 
 Sou estudante do 2.º ano de Engenharia Informática e desenvolvedor interessado em transformar ideias em soluções tecnológicas úteis.
 
@@ -72,7 +72,7 @@ Tenho experiência no desenvolvimento de aplicações web, integração de APIs 
 
 ## 🚀 Projeto em destaque
 
-### 🛍️ Mo Drip
+### Mo Drip
 
 **Um marketplace de moda pensado para Angola.**
 
@@ -92,25 +92,9 @@ A Mo Drip é uma plataforma que aproxima vendedores de roupas, calçados e acess
 
 ---
 
-## 📊 Atividade no GitHub
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=LourencoDeia&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Estatísticas do GitHub"
-  />
-</p>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LourencoDeia&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Linguagens mais utilizadas"
-  />
-</p>
-
----
-
-## 🤝 Vamos conectar?
+## Vamos conectar?
 
 Estou aberto a novas oportunidades de aprendizagem, colaboração em projetos e participação em hackathons.
 
