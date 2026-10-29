@@ -5,9 +5,6 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/LourencoDeia">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
   <a href="https://www.linkedin.com/in/louren%C3%A7o-deia-557357376/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -114,7 +111,6 @@ A Mo Drip é uma plataforma que aproxima vendedores de roupas, calçados e acess
 Estou aberto a novas oportunidades de aprendizagem, colaboração em projetos e participação em hackathons.
 
 <p align="center">
-  <a href="https://github.com/LourencoDeia">GitHub</a> •
   <a href="https://www.linkedin.com/in/louren%C3%A7o-deia-557357376/">LinkedIn</a> •
   <a href="https://www.instagram.com/lourenco_dev">Instagram</a>
 </p>
