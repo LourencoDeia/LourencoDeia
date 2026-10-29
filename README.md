@@ -1,7 +1,7 @@
-<h1 align="center">Olá, sou o Lourenço Deia 👋</h1>
+<h1 align="center">Olá, sou o Lourenço Deia</h1>
 
 <h3 align="center">
-  Desenvolvedor de Software | Engenharia Informática 🇦🇴
+  Desenvolvedor de Software | Engenharia Informática 
 </h3>
 
 <p align="center">
