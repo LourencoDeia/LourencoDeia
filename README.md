@@ -45,6 +45,8 @@ Tenho experiência no desenvolvimento de aplicações web, integração de APIs 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Node.js e Express.js">
   <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger">
 </p>
 
 ### Bases de dados e serviços
