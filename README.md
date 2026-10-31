@@ -50,6 +50,8 @@ Tenho experiência no desenvolvimento de aplicações web, integração de APIs 
   <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger">
+  <img src="https://img.shields.io/badge/dotenv-ECD53F?style=for-the-badge&logo=dotenv&logoColor=black" alt="dotenv">
+  <img src="https://img.shields.io/badge/CORS-4A90E2?style=for-the-badge" alt="CORS">
 </p>
 
 ### Bases de dados e serviços
@@ -57,6 +59,7 @@ Tenho experiência no desenvolvimento de aplicações web, integração de APIs 
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black" alt="Supabase">
+  <img src="https://img.shields.io/badge/pg-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="node-postgres">
 </p>
 
 ### Outras tecnologias
@@ -76,6 +79,7 @@ Tenho experiência no desenvolvimento de aplicações web, integração de APIs 
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code">
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm">
 </p>
 
 ---
